@@ -13,12 +13,11 @@
 
 ## Compétences et technologies
 
-Technologies rencontrées dans mes projets :
+Logos des langages, frameworks et outils utilisés dans mes projets :
 
-- **Développement :** Java, Spring Boot, Dart, Flutter, C++, PHP, HTML
-- **IoT et embarqué :** Arduino, ESP32, capteurs, communication et objets connectés
-- **Données et services :** MySQL, Supabase, API REST
-- **Domaines :** développement backend, applications mobiles, systèmes connectés et projets collaboratifs
+![Java, Spring, Dart, Flutter, C++, PHP, HTML, MySQL et Supabase](https://skillicons.dev/icons?i=java,spring,dart,flutter,cpp,php,html,mysql,supabase)
+
+**Domaines :** développement backend, applications mobiles, systèmes IoT et embarqués, API REST et projets collaboratifs.
 
 ## Projets à découvrir
 
@@ -43,7 +42,11 @@ I am a computer engineering student interested in IoT, embedded systems, and bui
 
 ## Skills and technologies
 
-Technologies represented in my public projects include **Java, Spring Boot, Dart, Flutter, C++, PHP, HTML, Arduino, ESP32, MySQL, Supabase, and REST APIs**. I explore backend and mobile development alongside IoT and embedded systems.
+Technologies represented in my public projects:
+
+![Java, Spring, Dart, Flutter, C++, PHP, HTML, MySQL and Supabase](https://skillicons.dev/icons?i=java,spring,dart,flutter,cpp,php,html,mysql,supabase)
+
+I explore backend and mobile development alongside IoT, embedded systems, and REST APIs.
 
 ## Featured projects
 
