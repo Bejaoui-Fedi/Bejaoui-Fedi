@@ -7,7 +7,8 @@
 - 🎓 Diplômé d'une **Licence en IoT et Réseaux**.
 - 🎓 Je poursuis actuellement des études d'ingénieur en informatique à **ESPRIT**, option **Technologies IoT et systèmes embarqués**.
 - 🛠️ J'aime concevoir des projets qui relient logiciel, électronique et services connectés.
-- 🌐 Portfolio : [MonPortfolio](https://github.com/Bejaoui-Fedi/MonPortfolio)
+- 🌐 Portfolio : [fedtech-2526.web.app](https://fedtech-2526.web.app/)
+- 💻 Code source du portfolio : [MonPortfolio](https://github.com/Bejaoui-Fedi/MonPortfolio)
 - 💼 LinkedIn : [Fedi Bejaoui](https://www.linkedin.com/in/fedi-bejaoui-9205322a4/)
 
 ## Compétences et technologies
@@ -37,6 +38,7 @@ I am a computer engineering student interested in IoT, embedded systems, and bui
 - 🎓 I hold a **Bachelor's degree in IoT and Networks**.
 - 🎓 I am currently pursuing an engineering degree in Computer Science at **ESPRIT**, specializing in **IoT Technologies and Embedded Systems**.
 - 🛠️ I enjoy projects that bring together software, electronics, and connected services.
+- 🌐 [Visit my portfolio](https://fedtech-2526.web.app/) · [Portfolio source code](https://github.com/Bejaoui-Fedi/MonPortfolio)
 - 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/fedi-bejaoui-9205322a4/)
 
 ## Skills and technologies
