@@ -23,6 +23,7 @@ Logos des langages, frameworks et outils utilisés dans mes projets :
 
 | Projet | Description |
 | --- | --- |
+| [StepQuest — Android Sensor App](https://github.com/slaheddine281/android-sensor-app) | Projet collaboratif : application Android explorant les capteurs du téléphone, notamment le podomètre, pour le suivi d'activité. Dépôt créé par ma collaboratrice. |
 | [AutoLoc](https://github.com/Bejaoui-Fedi/AutoLoc) | API de gestion de location de véhicules développée avec Java, Spring Boot et MySQL. |
 | [Evolia](https://github.com/Bejaoui-Fedi/Esprit-PIDEV-3A23-2526-Evolia-) | Projet d'équipe ESPRIT : plateforme web consacrée au bien-être et au développement personnel. |
 | [Initiatives IoT](https://github.com/Bejaoui-Fedi/Initiatives-IoT) | Projets ESP32 : monitoring environnemental, chiffrement par César et serveur de chat Wi-Fi. |
@@ -50,6 +51,7 @@ I explore backend and mobile development alongside IoT, embedded systems, and RE
 
 ## Featured projects
 
+- [StepQuest — Android Sensor App](https://github.com/slaheddine281/android-sensor-app) — collaborative Android sensor application exploring step tracking and fitness concepts. Repository created by my collaborator.
 - [AutoLoc](https://github.com/Bejaoui-Fedi/AutoLoc) — vehicle rental management REST API.
 - [Evolia](https://github.com/Bejaoui-Fedi/Esprit-PIDEV-3A23-2526-Evolia-) — collaborative well-being web platform developed at ESPRIT.
 - [Initiatives IoT](https://github.com/Bejaoui-Fedi/Initiatives-IoT) — ESP32 environmental monitoring and connected-device projects.
